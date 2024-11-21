@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
-import rockImage from "../images/clipart-rock.png";
-import paperImage from "../images/clipart-paper.png";
-import scissorsImage from "../images/clipart-scissors.png";
+import rockImage from "../assets/clipart-rock.png";
+import paperImage from "../assets/clipart-paper.png";
+import scissorsImage from "../assets/clipart-scissors.png";
 
 const choices = [
   {
